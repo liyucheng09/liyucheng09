@@ -1,8 +1,10 @@
 ### This is Yucheng
 
-I am doing **PhD** on NLP, especially on **creative language processing/writing**, at University of Surrey, UK. Please check my publicaitons at: https://liyucheng09.github.io/. 
+I am doing **PhD** on NLP, especially on **creative language processing/writing**, at University of Surrey, UK.
 
-Previsoue: Tencent
+Publicaitons list at: https://liyucheng09.github.io/
+
+**Previous**: Tencent
 
 [![Yucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyucheng09&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
