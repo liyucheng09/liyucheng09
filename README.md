@@ -1,4 +1,10 @@
-### Hi there 👋
+### This is Yucheng
+
+I am doing PhD on NLP, especially on creative language processing/writing, at University of Surrey, UK.
+
+Previsouly: Tencent
+
+[![Yucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyucheng09&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **liyucheng09/liyucheng09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
