@@ -6,7 +6,7 @@ Publicaitons list at: https://liyucheng09.github.io/
 
 **Previous**: Tencent
 
-[![Yucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyucheng09&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+![Yucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyucheng09&PAT_1)
 
 <!--
 **liyucheng09/liyucheng09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
