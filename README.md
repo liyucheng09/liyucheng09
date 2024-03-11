@@ -1,6 +1,6 @@
 ### This is Yucheng
 
-I am doing **PhD** on NLP, especially on **creative language processing/writing**, at University of Surrey, UK.
+I am doing **PhD** on NLP, especially on **Efficient LLMs** and **Robust LLMs evaluation**, at University of Surrey, UK.
 
 Publicaitons list at: https://liyucheng09.github.io/
 
