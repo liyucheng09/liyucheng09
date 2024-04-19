@@ -1,6 +1,6 @@
 ### This is Yucheng
 
-I am doing **PhD** on NLP, especially on **Efficient LLMs** and **Robust LLMs evaluation**, at University of Surrey, UK. I am currently a Student Researcher at Microsoft Research.
+I am doing **PhD** on NLP, especially on **Efficient LLMs** and **Robust LLMs evaluation**, at University of Surrey, UK. I am currently a **Student Researcher** at Microsoft Research.
 
 Publicaitons list at: https://liyucheng09.github.io/
 
