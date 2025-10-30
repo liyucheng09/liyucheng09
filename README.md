@@ -2,9 +2,7 @@
 
 I am a researcher at Qwen team, Alibaba.
 
-Before that, I was a Research Intern at Amazon Science, Microsoft Research, and Tencent Cloud. I obtained my PhD at the University of Surrey, co-affiliated at the NLP group in the University of Manchester. Before starting my PhD in 2021, I obtained my MSc degree at East China Normal University and BSc degree at Shanghai Normal University.
-
-My research mainly focuses on efficient LLMs Inference, Long Context LLMs, LLMs evaluation, and metaphor processing.
+My research mainly focuses on efficient LLMs Inference and Training.
 
 Publicaitons list at: https://liyucheng09.github.io/
 
